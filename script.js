@@ -364,9 +364,9 @@ printBtn.addEventListener("click", function() {
                      ${charField}
                      ${charField}
                      ${charField}
-                ${charField}   ${charField}
-                ${charField}   ${charField}
-                  ${charField}${charField}
+               ${charField}   ${charField}
+               ${charField}   ${charField}
+                 ${charField}${charField}
                 </pre>
                 `)
             }
@@ -447,10 +447,10 @@ printBtn.addEventListener("click", function() {
                 ${charField}${charField}    ${charField}${charField}
                 ${charField} ${charField}  ${charField} ${charField}
                 ${charField}  ${charField}${charField}  ${charField}
-                ${charField}   ${charField}    ${charField}
-                ${charField}         ${charField}
-                ${charField}         ${charField}
-                ${charField}         ${charField}
+                ${charField}   ${charField}   ${charField}
+                ${charField}        ${charField}
+                ${charField}        ${charField}
+                ${charField}        ${charField}
                 </pre>
                 `)
             }
@@ -727,10 +727,10 @@ printBtn.addEventListener("click", function() {
                 document.querySelector(".result").insertAdjacentHTML("beforeend", 
                 `
                 <pre>
-                ${charField}         ${charField}
-                ${charField}         ${charField}   
-                ${charField}   ${charField}    ${charField}  
-                ${charField}   ${charField}    ${charField}  
+                ${charField}        ${charField}
+                ${charField}        ${charField}   
+                ${charField}   ${charField}   ${charField}  
+               ${charField}   ${charField}    ${charField}  
                 ${charField} ${charField} ${charField}  ${charField}
                 ${charField}${charField}    ${charField}${charField}
                 </pre>
