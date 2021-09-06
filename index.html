@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Namoji</title>
+  </head>
+  <body>
+
+    <div class="header">
+        <div class="appName">
+           Nam<span style="font-size: 40px;">😍</span>ji
+        </div>
+
+        <a href="developer.html">
+          <div class="dots">
+              <p>...</p>
+          </div>
+        </a>
+
+    </div>
+      
+    <div class="main">
+      <p class="note">
+        <b>Note:</b> Use either <b>Emoji</b> or
+        <b>Characters,</b>
+        <b style="color: red">don't</b> use <b>both simultaneously</b> 
+      </p>
+      <input type="text" class="inputField text" autocomplete="off" placeholder="Enter Text" />
+      <input
+        type="text"
+        class="inputField characters" autocomplete="off"
+        placeholder="Enter Character"
+      />
+      <br />
+      <input type="button" value="Print" class="btn printBtn" />
+      <input type="button" value="Copy" class="btn copyBtn" />
+      <input type="button" value="Reset" class="btn resetBtn" />
+    </div>
+
+    <div class="res">
+    </div>
+
+    <div class="modal">
+      <div class="modal-content">
+        <div class="modal-body">Copied !</div>
+        <!-- <div class="modal-footer">
+                <h3>Modal Footer</h3>
+            </div> -->
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
