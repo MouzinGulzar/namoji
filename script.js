@@ -364,9 +364,9 @@ printBtn.addEventListener("click", function() {
                      ${charField}
                      ${charField}
                      ${charField}
-               ${charField}   ${charField}
-               ${charField}   ${charField}
-                 ${charField}${charField}
+                ${charField}   ${charField}
+                ${charField}   ${charField}
+                  ${charField}${charField}
                 </pre>
                 `)
             }
@@ -621,7 +621,7 @@ printBtn.addEventListener("click", function() {
                 ${charField}       ${charField}
                 ${charField}
                  ${charField}${charField}${charField}${charField}
-                          ${charField}
+                         ${charField}
                 ${charField}       ${charField}
                  ${charField}${charField}${charField}${charField} 
                 </pre>
