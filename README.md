@@ -1,2 +1,2 @@
-# namoji
+# Namoji
 Write name in emojis
