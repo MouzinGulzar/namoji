@@ -353,7 +353,7 @@ printBtn.addEventListener("click", function() {
                   ${charField}
                ${charField}  ${charField}
                ${charField}  ${charField}
-               ${charField}${charField}
+                ${charField}${charField}
                 </pre>
                 `)
             } else if (!charType) {
@@ -730,7 +730,7 @@ printBtn.addEventListener("click", function() {
                 ${charField}        ${charField}
                 ${charField}        ${charField}   
                 ${charField}   ${charField}   ${charField}  
-               ${charField}   ${charField}    ${charField}  
+                ${charField}   ${charField}    ${charField}  
                 ${charField} ${charField} ${charField}  ${charField}
                 ${charField}${charField}    ${charField}${charField}
                 </pre>
